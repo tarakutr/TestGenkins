@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genkinsdemo2", "genkinsdemo2\genkinsdemo2.csproj", "{490ED905-EE9B-4800-B9FA-21E4358111E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490ED905-EE9B-4800-B9FA-21E4358111E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490ED905-EE9B-4800-B9FA-21E4358111E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490ED905-EE9B-4800-B9FA-21E4358111E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490ED905-EE9B-4800-B9FA-21E4358111E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB388E4-261D-4E36-82BD-483662762491}
+	EndGlobalSection
+EndGlobal
